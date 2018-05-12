@@ -1,0 +1,35 @@
+_repo: Hooking-Watermelons1898_22703
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bellamy, Edward
+    birthdate: 1850
+    deathdate: 1898
+    gutenberg_agent_id: '327'
+    url: http://www.gutenberg.org/2009/agents/327
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Bellamy
+description: Edward Bellamy is best remembered for the utopian novel Looking Backward,
+  which had a profound cultural impact when it was published, inciting many readers
+  to form organizations seeking to put the book's ideas into practice. The charming
+  short story ""Hooking Watermelons, "" chock-full of local color, illustrates how
+  something as seemingly innocuous as a melon patch can actually be a symbol of intractable
+  social divides.
+gutenberg_issued: '2007-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22703'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+title: 'Hooking Watermelons
+
+  1898'
+url: http://www.gutenberg.org/ebooks/22703
